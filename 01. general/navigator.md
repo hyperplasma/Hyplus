@@ -44,7 +44,7 @@
 * [GitMind](https://gitmind.cn)
 * [processon在线作图](https://www.processon.com/) 流程图、思维导图、原型图等
 * [百度脑图](https://naotu.baidu.com) 思维导图
-* [plectica](plectica.com) 绘制知识图谱
+* [plectica](https://plectica.com) 绘制知识图谱
 * [优品 PPT](http://www.ypppt.com/)
 * [比格 PPT](http://www.tretars.com/)
 * [UzerMe](https://www.uzer.me/) 云端办公工具
