@@ -5,7 +5,6 @@
 ### 综合产品
 
 * [GPT-GOD](https://gptgod.online/) ChatGPT等主流模型镜像站
-* <a href="https://gptgod.online/" target="_blank">GPT-GOD</a> ChatGPT等主流模型镜像站
 * [DeepSeek](https://chat.deepseek.com) 可靠的AI助手
 * [KIMI](https://kimi.moonshot.cn) 速度较快，自称擅长数学
 * [智普清言ChatGLM](https://chatglm.cn/main/alltoolsdetail?lang=zh) 清华智谱开发的AI助手，擅长快速生成自然流畅的对话内容
