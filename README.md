@@ -1,2 +1,7 @@
 # Hyplus
-Another shelter for Hyplus
+
+Everything from akira.blog.csdn.net to hyperplasma.top.
+
+[Navigator](01.%20general/navigator.md)
+
+> Make sure to use CTRL+click (on Windows and Linux) or CMD+click (on MacOS) on the link to open in a new tab.
