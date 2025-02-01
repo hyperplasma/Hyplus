@@ -103,7 +103,7 @@ Everything from akira.blog.csdn.net to hyperplasma.top.
 * [AcWing](https://www.acwing.com) 课程见Pan
 * [N诺计算机考研](https://noobdream.com)
 * [PAT](https://pintia.cn/problem-sets/dashboard)
-* [LeetCode](https://leetcode.cn)
+* [LeetCode](https://leetcode.cn/problemset/) 力扣CN题库
 * [牛客网](https://www.nowcoder.com)
 * [MarsCode](https://juejin.cn/problemset) | [刷题打卡活动](https://juejin.cn/post/7457905871668641803) | [青训营](https://bytedance.larkoffice.com/docx/X6vRdJjtjo1wQlx1zKlcju8On3a) | [后端课程](https://bytedance.larkoffice.com/sheets/HlMssJ5jqhdmZjtAU6yc1tcSnqg)
 
