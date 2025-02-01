@@ -2,11 +2,14 @@
 
 Everything from akira.blog.csdn.net to hyperplasma.top.
 
+
 [AI大模型](#AI大模型) [实用工具](#实用工具) [综合社区](#综合社区) [信息资源](#信息资源) [图像设计](#图像设计) [娱乐中心](#娱乐中心)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=hyperplasma)](https://git.io/streak-stats)
 
-> Make sure to use CTRL+click (on Windows and Linux) or CMD+click (on MacOS) on the link to open in a new tab.
+> Click the upper right button to open navigation contents.
+> 
+> CTRL+click (on Windows and Linux) or CMD+click (on MacOS) on the link to open in a new tab.
 
 ## AI大模型
 
